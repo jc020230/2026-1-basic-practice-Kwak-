@@ -1,1 +1,1 @@
-# 2025-summer
+# deep learning basic and practice
